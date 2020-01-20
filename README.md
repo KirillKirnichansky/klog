@@ -1,6 +1,6 @@
 # KLOG
 
-> My phenomenal Nuxt.js project
+> View ui folder to see pictures
 
 ## Build Setup
 
