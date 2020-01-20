@@ -1,4 +1,4 @@
-# vue-app
+# KLOG
 
 > My phenomenal Nuxt.js project
 
